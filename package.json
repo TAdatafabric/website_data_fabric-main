@@ -1,0 +1,19 @@
+{
+    "name": "website_data_fabric",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TAdatafabric/website_data_fabric.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TAdatafabric/website_data_fabric/issues"
+    },
+    "homepage": "https://github.com/TAdatafabric/website_data_fabric#readme",
+    "main": "index.js",
+    "description": ""
+}
